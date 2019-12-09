@@ -6,9 +6,9 @@ layout: default
 
 [Cleanduino](./cleanduino.html)
 
-[Binary Clock](./another-page.html)
+[Binary Clock](./binary-clock.html)
 
-[LED Driver](./another-page.html)
+[LED Driver](./led-driver.html)
 
-[Spotify Jukebox](./another-page.html)
+[Spotify Jukebox](./spotify-jukebox.html)
 

@@ -1,14 +1,6 @@
 ---
-layout: default
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
 ---
-
-# PROJECTS
-
-[Cleanduino](./cleanduino.html)
-
-[Binary Clock](./binary-clock.html)
-
-[LED Driver](./led-driver.html)
-
-[Spotify Jukebox](./spotify-jukebox.html)
-

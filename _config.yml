@@ -30,6 +30,7 @@ github_username:  pmusgrave
 remote_theme: mmistakes/minimal-mistakes@4.17.2
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 include: ["_pages"]
 

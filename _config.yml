@@ -27,9 +27,10 @@ url: "pmusgrave.github.io" # the base hostname & protocol for your site, e.g. ht
 github_username:  pmusgrave
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes@4.17.2
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 include: ["_pages"]
 

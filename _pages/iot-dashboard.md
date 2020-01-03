@@ -14,6 +14,6 @@ defaults:
 
 > Work in progress
 >
-> 
+> January 2020
 >
 > [https://github.com/pmusgrave/iot-dashboard](https://github.com/pmusgrave/iot-dashboard)

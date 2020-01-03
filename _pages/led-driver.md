@@ -14,7 +14,7 @@ defaults:
 
 > RGB LED strip driver
 >
-> December, 2018
+> December 2018
 >
 > [https://github.com/pmusgrave/LED-driver](https://github.com/pmusgrave/LED-driver)
 

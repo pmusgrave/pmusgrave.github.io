@@ -14,7 +14,7 @@ defaults:
 
 > Clean documentation in KiCad for the Arduino development boards.
 >
-> 2019-11-22
+> November 2019
 >
 > [https://github.com/pmusgrave/cleanduino](https://github.com/pmusgrave/cleanduino)
 

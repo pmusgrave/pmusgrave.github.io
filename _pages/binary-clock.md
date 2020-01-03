@@ -14,7 +14,7 @@ defaults:
 
 > Binary Coded Decimal LED clock
 >
-> 2019-12-06
+> December 2019
 >
 > [https://github.com/pmusgrave/binary-clock](https://github.com/pmusgrave/binary-clock)
 

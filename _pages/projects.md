@@ -16,22 +16,20 @@ defaults:
 
 [IoT Dashboard](/iot-dashboard)
 
+[Binary Clock](/binary-clock)
+
 [QSYNTH - Hardware Synthesizer Iteration #2](/qsynth)
 
 [PSYNTH - Hardware Synthesizer Iteration #1](/psynth)
 
-[DAC](/dac)
-
 [Dotmatrix](/dotmatrix)
 
-[Cleanduino](/cleanduino)
-
-[Binary Clock](/binary-clock)
+[DAC](/dac)
 
 [LED Driver](/led-driver)
-
-[Software Utility Libraries](/utils)
 
 [Spotify Jukebox](/spotify-jukebox)
 
 [CSV Parser](/csv-parser)
+
+[Software Utility Libraries](/utils)

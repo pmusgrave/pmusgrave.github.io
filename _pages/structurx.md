@@ -14,7 +14,7 @@ defaults:
 
 > Work in progress
 >
-> Contract position, April 2019 - Present
+> Contract position, April 2019 - August 2019
 >
 > private repository
 

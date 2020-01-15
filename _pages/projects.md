@@ -32,4 +32,6 @@ defaults:
 
 [CSV Parser](/csv-parser)
 
+[Chess](/chess)
+
 [Software Utility Libraries](/utils)

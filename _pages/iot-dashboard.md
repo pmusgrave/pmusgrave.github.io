@@ -12,7 +12,7 @@ defaults:
       author_profile: true
 ---
 
-> Work in progress
+> Central dashboard to display and control custom Internet of Things applications
 >
 > January 2020
 >

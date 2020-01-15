@@ -14,7 +14,7 @@ defaults:
 
 > A 2-player chess program.
 >
-> [https://github.com/pmusgrave/games](https://github.com/pmusgrave/games)
+> [https://github.com/pmusgrave/games/chess](https://github.com/pmusgrave/games/chess)
 
 Chess was one of the first substantial programs I ever wrote, back in high school when I was first learning how to code, and it was one of the first things that really got me hooked on programming. The final project for the course was to make a game, and I got started on the project weeks and weeks before it was due. It was all I could think about. I spent so long perfecting the algorithm for attack logic. When I finally ran out of time and had to turn in the project, it was brittle and had a lot of bugs. The attack algorithm worked, but I spent so long on it that the rest of the program suffered.
 

@@ -28,3 +28,4 @@ I cut 6 strips of 4 LEDs, wired in series, so there are two strips for each port
 
 Regular printer paper is used to cover the LEDs. This serves both to diffuse the LEDs and dampen the brightness.
 
+{% include google_analytics.html %}

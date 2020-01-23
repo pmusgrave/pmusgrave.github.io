@@ -35,3 +35,5 @@ defaults:
 [Chess](/chess)
 
 [Software Utility Libraries](/utils)
+
+{% include google_analytics.html %}

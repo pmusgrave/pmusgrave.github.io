@@ -25,3 +25,5 @@ There are a few main components to this project which I designed to be as modula
 The .NET WPF framework has a very similar design process as other data binding frameworks used on the web and elsewhere, such as React, Vue, or Angular. This architecture simplifies the design considerations and keeps data synchronized between the user interface and backend.
 
 Additionally, there is a 3D graphics component which is used to display the structure as the engineer works on the project. The 3D pane is synchronized to the backend data model, so that changes in either the backend forms or frontend 3D models are synchronized automatically, bidirectionally.
+
+{% include google_analytics.html %}

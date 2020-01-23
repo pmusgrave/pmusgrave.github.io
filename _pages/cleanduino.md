@@ -47,3 +47,5 @@ I've really only scratched the surface on this topic, so here is some more infor
 [Guide to Drawing Clean Schematics with Virtuoso](https://www.egr.msu.edu/classes/ece410/mason/files/guide-schematictips.pdf)
 
 [EEVBlog's Creating a Nice Readable Schematic](https://www.youtube.com/watch?v=R_Ud-FxUw0g)
+
+{% include google_analytics.html %}

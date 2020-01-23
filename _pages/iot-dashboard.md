@@ -23,3 +23,5 @@ As the number of Raspberry Pi projects I've completed has grown over time, I've 
 At the present moment, the web app has components for two of these IoT Raspberry Pi projects: a [RGB LED driver](/led-driver) I completed a while ago, and a data visualization component to display data captured by a temperature and humidity sensor. Through this web app, I can control the color of lights in the room, and view temperature and humidity data from any time range since I started collecting data.
 
 Turning on lights and displaying temperature data might not seem like the most interesting use cases of an IoT system, but I like to think of this almost like an IoT "hello world" system. I've built the components at every level one would need in an IoT application. Down to flipping a bit on a microcontroller, to serial communication, up through a database server, web server, REST API, and a React frontend dashboard. All of these modules can be extended orthogonally in the future to create a full fledged Internet connected smart home system that controls or logs data for anything I might be interested in.
+
+{% include google_analytics.html %}

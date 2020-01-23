@@ -57,5 +57,5 @@ include: ["_pages"]
 analytics:
   provider: "google-gtag"
   google:
-    tracking-id: "UA-156905633-1"
-    anonymize_ip: false
+    tracking_id: "UA-156905633-1"
+    anonymize_ip: false # default

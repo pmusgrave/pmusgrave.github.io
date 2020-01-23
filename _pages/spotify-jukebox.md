@@ -30,3 +30,5 @@ The other really exciting use case is when people *aren't* in the same room. You
 
 The only caveat is that the Spotify API only works with Spotify Premium accounts.
 
+{% include google_analytics.html %}
+

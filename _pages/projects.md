@@ -11,6 +11,7 @@ defaults:
       layout: single
       author_profile: true
 ---
+[IoT GPS Run Logger](/runlogger)
 
 [Structurx Structural Engineering CAD Software](/structurx)
 

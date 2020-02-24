@@ -16,7 +16,7 @@ defaults:
 >
 > February 2020
 >
-> Private repository
+> [https://github.com/pmusgrave/run-logger](https://github.com/pmusgrave/run-logger)
 
 This is a device that logs your distance and time when you walk or run. This device uses a GPS module to track position, and includes an ESP32 WiFi/BLE microcontroller to synchronize data to the cloud automatically, using an extremely simple and familiar user interface. Just like a classic stopwatch, this has a simple 3-button, start, stop, reset interface.
 

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: IoT Run Logger
+title: IoT GPS Run Logger
 permalink: /runlogger
 defaults:
   # _pages

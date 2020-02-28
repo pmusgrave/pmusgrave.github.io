@@ -12,7 +12,7 @@ defaults:
       author_profile: true
 ---
 
-> Work in progress
+> Structual engineering CAD software
 >
 > Contract position, April 2019 - August 2019
 >

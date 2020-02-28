@@ -13,7 +13,7 @@ defaults:
 ---
 [IoT GPS Run Logger](/runlogger)
 
-[Structurx Structural Engineering CAD Software](/structurx)
+[Write: A Text Editor in C++](/write)
 
 [IoT Dashboard](/iot-dashboard)
 
@@ -22,6 +22,8 @@ defaults:
 [QSYNTH - Hardware Synthesizer Iteration #2](/qsynth)
 
 [PSYNTH - Hardware Synthesizer Iteration #1](/psynth)
+
+[Structurx Structural Engineering CAD Software](/structurx)
 
 [Dotmatrix](/dotmatrix)
 

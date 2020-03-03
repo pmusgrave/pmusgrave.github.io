@@ -27,8 +27,6 @@ Yes, I know you can use a smartphone app to log your distance when you run. Smar
 
 Additionally, I think this is better than step-counting products like Fitbit because using a GPS module makes this extremely accurate, to within the tolerance of GPS measurements, which vary by a few meters in the worst case. Fitbit essentially only gives you a rough idea of how far you went. And having an Internet connection built-in means it's very simple to log data and give yourself insights to your fitness progress over time.
 
-For now (and this is subject to change), I'm using a Raspberry Pi as an MQTT broker to handle messages from the device and send them to a Node.js script which handles communicating with my logging database. I'm just logging runs as Google Calendar events, so the Node.js script uses the Google Calendar API to create a new event whenever new MQTT messages are published from the device. If this were to be used by other people, I would probably need to swap out the logging system for something better. Google calendar works for my needs because all I really want to know is distance, time, and date, and glancing over my Google calendar is good enough for me. But a more complete log would make it easier to visualize run times and graph performance over time.
-
-At the time of writing, I'm still waiting on a GPS module to arrive in the mail, which means that it cannot automatically record distance just yet. The rest of the application is complete and unit tested though, so at the moment it functions as a full-featured Internet connected stopwatch, and publishes an MQTT message and a Google calendar event when a run is completed.
+For now (and this is subject to change), I'm using a Raspberry Pi as an MQTT broker to handle messages from the device and send them to a Node.js script, which handles communicating with my logging database (postgres). Then I tied this into my [Iot Dashboard](/iot-dashboard).
 
 {% include google_analytics.html %}

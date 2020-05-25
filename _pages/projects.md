@@ -11,11 +11,13 @@ defaults:
       layout: single
       author_profile: true
 ---
+[Terminal Tetris](/tertris)
+
+[IoT Dashboard](/iot-dashboard)
+
 [IoT GPS Run Logger](/runlogger)
 
 [Write: A Text Editor in C++](/write)
-
-[IoT Dashboard](/iot-dashboard)
 
 [Binary Clock](/binary-clock)
 

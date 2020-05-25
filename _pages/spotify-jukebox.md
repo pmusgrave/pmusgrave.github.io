@@ -17,6 +17,8 @@ defaults:
 > On and off between October 2017 through April 2018
 >
 > [https://github.com/pmusgrave/SpotifyJukebox](https://github.com/pmusgrave/SpotifyJukebox)
+>
+> Check it out [here](https://spotboxify.herokuapp.com/)
 
 ![spotify-jukebox](../spotify-jukebox.png)
 

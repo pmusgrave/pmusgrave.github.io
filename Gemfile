@@ -25,4 +25,7 @@ gem "minimal-mistakes-jekyll"
 # Upgrade activesupport for vulnerability fix
 gem "activesupport", ">= 6.0.3.1"
 
+# pgrade nokogiri for vulnerability fix
+gem "nokogiri", ">= 1.10.8"
+
 

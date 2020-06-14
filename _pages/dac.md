@@ -1,15 +1,7 @@
 ---
-layout: single
+layout: page
 title: DAC
 permalink: /dac
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
 ---
 
 > Firmware for an audio USB + AK4490 Digital to Analog Converter using PSoC 4 L-Series

@@ -1,15 +1,7 @@
 ---
-layout: single
+layout: page
 title: LED Driver
 permalink: /led-driver
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
 ---
 
 > RGB LED strip driver

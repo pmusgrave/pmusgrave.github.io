@@ -1,15 +1,7 @@
 ---
-layout: single
+layout: page
 title: Cleanduino
 permalink: /cleanduino
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
 ---
 
 > Clean documentation in KiCad for the Arduino development boards.

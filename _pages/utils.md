@@ -1,15 +1,7 @@
 ---
-layout: single
+layout: page
 title: Software Utility Libraries
 permalink: /utils
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
 ---
 
 > Various algorithm, data structure, and helper utilities. Mostly in C, but also a lot of Javascript.

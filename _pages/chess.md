@@ -1,15 +1,7 @@
 ---
-layout: single
+layout: page
 title: Chess
 permalink: /chess
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
 ---
 
 > A 2-player chess program.

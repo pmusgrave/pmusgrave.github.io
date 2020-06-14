@@ -1,15 +1,7 @@
 ---
-layout: single
+layout: page
 title: Spotify Jukebox
 permalink: /spotify-jukebox
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
 ---
 
 > A web app to synchronize playback between multiple Spotify accounts!

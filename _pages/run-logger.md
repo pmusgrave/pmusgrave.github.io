@@ -1,15 +1,7 @@
 ---
-layout: single
+layout: page
 title: IoT GPS Run Logger
 permalink: /runlogger
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
 ---
 
 > Low-power device to log distance and time when you run using GPS. Automatically synchronizes run data to the cloud through an MQTT broker when connected to WiFi.

@@ -1,15 +1,7 @@
 ---
-layout: single
+layout: page
 title: csv-parser
 permalink: /csv-parser
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
 ---
 
 > CSV (Comma Separated Values) parser

@@ -1,15 +1,7 @@
 ---
-layout: single
+layout: page
 title: Projects
 permalink: /projects
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
 ---
 [Terminal Tetris](/tertris)
 

@@ -20,4 +20,9 @@ In other situations, you might not be able to run wasmtime or any of these other
 
 There's a lot more to go into, but I think that's enough to start with. There are a lot of moving pieces to this whole situation, so I hope that helps clarify the basics of these technologies.
 
+##### References:
+* [This tutorial](https://github.com/bytecodealliance/wasmtime/blob/master/docs/WASI-tutorial.md) probably helped the most
+* [The Wasm spec](https://webassembly.github.io/spec/core/intro/introduction.html)
+* [The WASI repository](https://github.com/WebAssembly/WASI)
+
 {% include google_analytics.html %}

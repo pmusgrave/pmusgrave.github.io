@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Getting Started with Parallel Computing in C with Cilk"
-date:   2020-06-22 17:00:07 -0500
+date:   2020-06-22 16:00:07 -0500
 categories: blog
 ---
 Cilk is a a small extension to the C language for parallel computing. In this tutorial, I'll be using the Tapir/LLVM compiler, which is built on top of clang-5.0. Cilk is much simpler to use than other concurrency platforms, such as Pthreads or TBB.

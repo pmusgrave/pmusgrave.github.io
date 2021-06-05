@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Gentle Introduction to WebAssembly and WASI"
+title:  "An Introduction to WebAssembly and WASI"
 date:   2020-06-14 14:53:38 -0500
 categories: blog
 ---

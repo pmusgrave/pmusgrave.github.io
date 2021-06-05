@@ -3,6 +3,10 @@ layout: page
 title: Projects
 permalink: /projects
 ---
+[JRNL - Encrypted journaling web app](/jrnl)
+
+[Run Logger Analytics](/run-logger-analytics)
+
 [Terminal Tetris](/tertris)
 
 [IoT Dashboard](/iot-dashboard)

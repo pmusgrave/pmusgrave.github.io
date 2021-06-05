@@ -10,7 +10,7 @@ permalink: /spotify-jukebox
 >
 > [https://github.com/pmusgrave/SpotifyJukebox](https://github.com/pmusgrave/SpotifyJukebox)
 >
-> Check it out [here](https://spotboxify.herokuapp.com/)
+> Check it out [here](https://jukebox.pmusgrave.dev/)
 
 ![spotify-jukebox](../spotify-jukebox.png)
 
@@ -18,7 +18,7 @@ The idea for this project had been milling around in various forms for quite som
 
 At the root of the issue is that multiple people often like to control the music. People have different tastes and like to share the music they're into. All you really need is a straightforward way to change who is in control of the song that's currently playing. Then it hit me! Jukeboxes solved this problem a long time ago! With this web app, multiple users can search and add songs to a shared group playlist. Just like a jukebox.
 
-There are a few different ways that might work. I think there are two main uses cases for this app. The first one is the scenario I just described where everyone's in the same room. One account serves as a master device that connects to the speaker system. Everyone in the room can search for songs on Spotify and add them to a shared playlist, which is just a simple queue.
+There are a few different ways that might work. I think there are two main uses cases for this app. The first one is the scenario I just described where everyone's in the same room. One account serves as a primary device that connects to the speaker system. Everyone in the room can search for songs on Spotify and add them to a shared playlist, which is just a simple queue.
 
 The other really exciting use case is when people *aren't* in the same room. You can synchronize your music playlist with anyone in the world. In that case, everyone connects to the web app, searches for songs and adds them to the shared playlist, but now the songs play back on everyone's spotify account in unison.
 

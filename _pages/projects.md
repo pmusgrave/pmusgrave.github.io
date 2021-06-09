@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects
 ---
-[JRNL - Encrypted journaling web app](/jrnl)
+[JRNL: Encrypted journaling web app](/jrnl)
 
 [Run Logger Analytics](/run-logger-analytics)
 
